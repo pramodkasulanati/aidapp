@@ -7,8 +7,7 @@ p {
 	height: 100px;
 	text-align: center;
 	vertical-align: center;
-	line-height: 200px;
-    height: 200px;
+	
 }
 
 .container {
@@ -48,12 +47,10 @@ p {
 }
 .wrapper {
     text-align: center;
+	margin-top: 10px;
 }
 
 .button {
     position: absolute;
     top: 50%;
-}
-div.wrapper{
-	margin-top: 10px;
 }
