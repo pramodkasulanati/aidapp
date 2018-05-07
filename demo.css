@@ -44,7 +44,11 @@ p {
 #ft {
 	background-color: #5fcf80;
 }
-.button
-{
-	text-align: center;
+.wrapper {
+    text-align: center;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
 }
