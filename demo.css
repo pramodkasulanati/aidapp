@@ -53,5 +53,7 @@ p {
 .button {
     position: absolute;
     top: 50%;
+}
+div.wrapper{
 	margin-top: 10px;
 }
