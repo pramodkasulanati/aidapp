@@ -5,10 +5,11 @@ p {
 #gst {
 	background-color:  #637a91;
 	height: 100px;
-	align: center;
+	text-align: center;
+	vertical-align: center;
 }
 
-#container {
+ .container {
              margin: 70px;
              border: 1px solid #637a91;
 	
