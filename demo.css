@@ -5,8 +5,7 @@ p {
 #gst {
 	background-color:  #637a91;
 	height: 100px;
-	vertical-align: center;
-	text-align: center;
+	align: center;
 }
 
 #ft {
