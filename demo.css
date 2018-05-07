@@ -5,9 +5,8 @@ p {
 #gst {
 	background-color:  #637a91;
 	height: 100px;
-
-	text-align: justify;
-	
+	text-align: center;
+	vertical-align: center;
 }
 
 .container {
