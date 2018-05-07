@@ -8,6 +8,13 @@ p {
 	align: center;
 }
 
+#container {
+             margin: 70px;
+             border: 1px solid #637a91;
+	
+}
+
+
 #ft {
 	background-color: #5fcf80;
 }
