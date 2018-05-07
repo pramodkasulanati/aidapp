@@ -9,10 +9,9 @@ p {
 	vertical-align: center;
 }
 
- .container {
-             margin: 70px;
-             border: 1px solid #637a91;
-	
+.container {
+    background-color: #f1f1f1;
+    padding: 20px;
 }
 
 
