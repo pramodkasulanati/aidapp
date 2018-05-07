@@ -14,6 +14,32 @@ p {
     padding: 20px;
 }
 
+#message p {
+    padding: 10px 35px;
+    font-size: 18px;
+}
+
+
+.valid {
+    color: green;
+}
+
+.valid:before {
+    position: relative;
+    left: -35px;
+    content: "✔";
+}
+
+
+.invalid {
+    color: red;
+}
+
+.invalid:before {
+    position: relative;
+    left: -35px;
+    content: "✖";
+}
 
 #ft {
 	background-color: #5fcf80;
