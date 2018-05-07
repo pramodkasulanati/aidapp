@@ -1,0 +1,14 @@
+p {
+    font-size: 18px;
+}
+
+#gst {
+	background-color:  #637a91;
+	height: 100px;
+	vertical-align: middle;
+	text-align: center;
+}
+
+#ft {
+	background-color: #5fcf80;
+}
